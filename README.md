@@ -6,4 +6,5 @@
 | 003  | 17.05 | Add prettier/eslint/stylelit configuration. Tailwind Css themes. |
 | 004  | 18.05 | Layout templae development |
 | 005  | 24.05 | Fix themes |
+| 006  | 26.05 | Initialize backend proj |
 
