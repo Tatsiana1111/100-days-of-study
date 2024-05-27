@@ -7,4 +7,5 @@
 | 004  | 18.05 | Layout templae development |
 | 005  | 24.05 | Fix themes |
 | 006  | 26.05 | Initialize backend proj |
+| 007  | 27.05 | Add database |
 
