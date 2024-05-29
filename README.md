@@ -9,4 +9,5 @@
 | 006  | 26.05 | Initialize backend proj |
 | 007  | 27.05 | Add database |
 | 008  | 28.05 | postgresql settings |
+| 009  | 29.05 | Add models and contollers |
 
