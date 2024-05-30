@@ -10,4 +10,5 @@
 | 007  | 27.05 | Add database |
 | 008  | 28.05 | postgresql settings |
 | 009  | 29.05 | Add models and contollers |
+| 010  | 30.05 | Error handler middleware |
 
