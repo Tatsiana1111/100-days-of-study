@@ -11,4 +11,6 @@
 | 008  | 28.05 | postgresql settings |
 | 009  | 29.05 | Add models and contollers |
 | 010  | 30.05 | Error handler middleware |
+| 011  | 31.05 | Add userController |
+| 012  | 01.06 | Add deviceController |
 
