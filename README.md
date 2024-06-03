@@ -13,4 +13,5 @@
 | 010  | 30.05 | Error handler middleware |
 | 011  | 31.05 | Add userController |
 | 012  | 01.06 | Add deviceController |
+| 013  | 03.06 | Add brandController |
 
