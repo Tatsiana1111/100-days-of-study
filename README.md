@@ -15,4 +15,5 @@
 | 012  | 01.06 | Add deviceController |
 | 013  | 03.06 | Add brandController |
 | 014  | 04.06 | Add typeController |
+| 015  | 05.06 | JWT Authorization |
 
