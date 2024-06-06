@@ -16,4 +16,5 @@
 | 013  | 03.06 | Add brandController |
 | 014  | 04.06 | Add typeController |
 | 015  | 05.06 | JWT Authorization |
+| 016  | 06.06 | Final fix backend |
 
