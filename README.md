@@ -18,4 +18,5 @@
 | 015  | 05.06 | JWT Authorization |
 | 016  | 06.06 | Final fix backend |
 | 017  | 07.06 | Initialize frontend proj |
+| 018  | 08.06 | Customize metadata |
 
